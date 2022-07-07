@@ -1,5 +1,6 @@
 # What is Unsupervised Machine Learning?
 
+![Schermata 2022-07-07 alle 16 18 02](https://user-images.githubusercontent.com/93007030/177796187-ba5e4d8f-7ba8-403d-baed-8be7da32be1c.png)
 
 This analysis aimed to answer a particular business question -identify countries with the most urgent help necessitation - by applying some unsupervised machine learning techniques. The whole analysis has been performed in R language.
  
@@ -15,4 +16,5 @@ Dataset: https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-coun
 
 
 
-Report: [COUNTRY Report - Manuel Scionti.pdf](https://github.com/mnlscn/unsupervised_learning_project/files/9064468/COUNTRY.Report.-.Manuel.Scionti.pdf)
+
+
