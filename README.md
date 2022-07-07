@@ -1,8 +1,9 @@
 # unsupervised_learning_project
 
 
-What is Unsupervised Machine Learning?
- 
+#What is Unsupervised Machine Learning?
+#
+
 This analysis aimed to answer a particular business question -identify countries with the most urgent help necessitation - by applying some unsupervised machine learning techniques. The whole analysis has been performed in R language.
  
 In-depth:
