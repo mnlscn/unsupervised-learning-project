@@ -1,8 +1,5 @@
-# unsupervised_learning_project
+# What is Unsupervised Machine Learning?
 
-
-#What is Unsupervised Machine Learning?
-#
 
 This analysis aimed to answer a particular business question -identify countries with the most urgent help necessitation - by applying some unsupervised machine learning techniques. The whole analysis has been performed in R language.
  
@@ -14,5 +11,8 @@ In-depth:
 * Cluster Analysis and Validation
 
 
+Dataset: https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data
 
-[COUNTRY Report - Manuel Scionti.pdf](https://github.com/mnlscn/unsupervised_learning_project/files/9064468/COUNTRY.Report.-.Manuel.Scionti.pdf)
+
+
+Report: [COUNTRY Report - Manuel Scionti.pdf](https://github.com/mnlscn/unsupervised_learning_project/files/9064468/COUNTRY.Report.-.Manuel.Scionti.pdf)
